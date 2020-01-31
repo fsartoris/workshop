@@ -11,7 +11,7 @@
 ## Docker commands
 
 ```bash
-docker-compose -f docker-compose.yml
+docker-compose -f docker-compose.yml up
 ```
 ## Based on:
 Gustavo Arjones - https://github.com/arjones/bigdata-workshop-es
