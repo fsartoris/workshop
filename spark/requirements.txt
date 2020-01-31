@@ -1,0 +1,14 @@
+jupyter
+findspark
+pandas
+matplotlib
+seaborn
+yfinance
+python3-pip
+
+# gensim install
+wheel
+gensim
+
+# https://spark.apache.org/docs/latest/sql-pyspark-pandas-with-arrow.html#apache-arrow-in-spark
+pyarrow==0.14.1
