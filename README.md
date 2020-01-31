@@ -1,5 +1,4 @@
-# workshop
-Workshop project ITBA
+# Workshop project ITBA
 
 # Big Data using Apache Spark
 
