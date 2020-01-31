@@ -1,17 +1,18 @@
-# Workshop project ITBA
+# Workshop ITBA
 
-# Big Data using Apache Spark
+# Big Data using Apache Spark: Argentina Stocks
 
 ## Jupyter Notebooks Content
-* [Analytics]
-* [Metrics and Predictions]
-* [Parquet files]
-* [Generate reporting files]
+* Analytics Banking
+* Metrics and Predictions for Banking
+* Save as Parquet file
+* Export files to reporting (Tableau, PowerBI)
 
-## Docker commands
+## Docker startup
 
 ```bash
 docker-compose -f docker-compose.yml up
 ```
+
 ## Based on:
 Gustavo Arjones - https://github.com/arjones/bigdata-workshop-es
