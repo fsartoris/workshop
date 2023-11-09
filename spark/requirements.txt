@@ -11,4 +11,4 @@ wheel
 gensim
 
 # https://spark.apache.org/docs/latest/sql-pyspark-pandas-with-arrow.html#apache-arrow-in-spark
-pyarrow==0.14.1
+pyarrow==14.0.1
